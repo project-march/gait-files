@@ -1,7 +1,7 @@
 description: Right swing of the stairs up gait in which the right leg streches already
   in this subgait
 duration: {nsecs: 500000000, secs: 2}
-gait_type: stairs_like
+gait_type: walk_like
 joints:
   left_ankle:
   - position: 0.0436
