@@ -12,10 +12,10 @@ gaits:
   stand: {prepare_stand_up: MIV_final, stand_up: MIV_final}
   sofa_sit: {sit_down: MIV_final, sit_home: MIV_final}
   sofa_stand: {prepare_stand_up: MIV_final, stand_up: MIV_final}
-  stairs_up: {right_open: MV_stairsup_rightopen_v17a, left_swing: MV_stairsup_leftswing_v17,
-              right_swing: MV_stairsup_rightswing_v17, left_close: MV_stairsup_leftclose_v17,
-              right_close: MV_stairsup_rightclose_v17}
-  stairs_up_single_step: {right_open: MV_stairsup_single_rightopen_v7, left_close: MV_stairsup_single_leftclose_v7}
+  stairs_up: {right_open: MV_stairsup_rightopen_v16a, left_swing: MV_stairsup_leftswing_v16,
+              right_swing: MV_stairsup_rightswing_v16, left_close: MV_stairsup_leftclose_v16,
+              right_close: MV_stairsup_rightclose_v16}
+  stairs_up_single_step: {right_open: MV_stairsup_single_rightopen_v7a, left_close: MV_stairsup_single_leftclose_v7}
   stairs_down_single_step: {right_open: MV_stairsdown_single_rightopen_v4,
                             left_close: MV_stairsdown_single_leftclose_v4}
   stairs_down: {right_open: MV_stairsdown_rightopen_v9, left_swing: MV_stairsdown_leftswing_v9,
@@ -52,9 +52,9 @@ gaits:
   tilted_path_right_straight_end: {right_open: MV_TP_right_straightend_rightopen_v6,
                                    left_close: MV_TP_right_straightend_leftclose_v6}
   tilted_path_right_knee_bend: {right_open: MV_TP_right_kneebend_rightopen_v6}
-  ramp_door_slope_up: {right_open: MV_RD_slopeup_rightopen_v4, left_open: MV_RD_slopeup_leftopen_v4,
-                       right_swing: MV_RD_slopeup_rightswing_v4, left_swing: MV_RD_slopeup_leftswing_v4,
-                       right_close: MV_RD_slopeup_rightclose_v4, left_close: MV_RD_slopeup_leftclose_v4}
+  ramp_door_slope_up: {right_open: MV_RD_slopeup_rightopen_v5, left_open: MV_RD_slopeup_leftopen_v5,
+                       right_swing: MV_RD_slopeup_rightswing_v5, left_swing: MV_RD_slopeup_leftswing_v5,
+                       right_close: MV_RD_slopeup_rightclose_v5, left_close: MV_RD_slopeup_leftclose_v5}
   ramp_door_slope_down: {right_open: MV_RD_slopedown_rightopen_v6, left_open: MV_RD_slopedown_leftopen_v6,
                            right_swing: MV_RD_slopedown_rightswing_v6, left_swing: MV_RD_slopedown_leftswing_v6,
                            right_close: MV_RD_slopedown_rightclose_v6, left_close: MV_RD_slopedown_leftclose_v6}
