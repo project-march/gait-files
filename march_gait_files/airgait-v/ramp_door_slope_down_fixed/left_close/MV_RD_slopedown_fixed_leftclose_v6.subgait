@@ -1,0 +1,86 @@
+description: Same as v1, but duration of 2,5 s.
+duration: {nsecs: 500000000, secs: 2}
+gait_type: stairs_like
+joints:
+  left_ankle:
+  - position: -0.2618
+    time_from_start: {nsecs: 0, secs: 0}
+    velocity: 0.0
+  - position: -0.2618
+    time_from_start: {nsecs: 500000000, secs: 2}
+    velocity: 0.0
+  left_hip_aa:
+  - position: 0.0
+    time_from_start: {nsecs: 0, secs: 0}
+    velocity: 0.0
+  - position: 0.0
+    time_from_start: {nsecs: 310400000, secs: 0}
+    velocity: 0.0
+  - position: 0.0
+    time_from_start: {nsecs: 500000000, secs: 2}
+    velocity: 0.0
+  left_hip_fe:
+  - position: 0.3491
+    time_from_start: {nsecs: 0, secs: 0}
+    velocity: 0.0
+  - position: 0.3491
+    time_from_start: {nsecs: 800000000, secs: 0}
+    velocity: 0.0
+  - position: 0.9599
+    time_from_start: {nsecs: 500000000, secs: 1}
+    velocity: 0.0
+  - position: -0.0873
+    time_from_start: {nsecs: 500000000, secs: 2}
+    velocity: 0.0
+  left_knee:
+  - position: 0.7086
+    time_from_start: {nsecs: 0, secs: 0}
+    velocity: 2.0105
+  - position: 1.7453
+    time_from_start: {nsecs: 900000000, secs: 0}
+    velocity: 0.0
+  - position: 1.7453
+    time_from_start: {nsecs: 300000000, secs: 1}
+    velocity: 0.0
+  - position: 0.0
+    time_from_start: {nsecs: 500000000, secs: 2}
+    velocity: 0.0
+  right_ankle:
+  - position: -0.2618
+    time_from_start: {nsecs: 0, secs: 0}
+    velocity: 0.0
+  - position: -0.2618
+    time_from_start: {nsecs: 500000000, secs: 2}
+    velocity: 0.0
+  right_hip_aa:
+  - position: 0.0
+    time_from_start: {nsecs: 0, secs: 0}
+    velocity: 0.0
+  - position: 0.0
+    time_from_start: {nsecs: 445800000, secs: 0}
+    velocity: 0.0
+  - position: 0.0
+    time_from_start: {nsecs: 500000000, secs: 2}
+    velocity: 0.0
+  right_hip_fe:
+  - position: 0.5236
+    time_from_start: {nsecs: 0, secs: 0}
+    velocity: -1.8151
+  - position: -0.0337
+    time_from_start: {nsecs: 0, secs: 1}
+    velocity: 0.0
+  - position: -0.0873
+    time_from_start: {nsecs: 500000000, secs: 2}
+    velocity: 0.0
+  right_knee:
+  - position: 0.2878
+    time_from_start: {nsecs: 0, secs: 0}
+    velocity: -0.8378
+  - position: 0.0
+    time_from_start: {nsecs: 750000000, secs: 0}
+    velocity: 0.0
+  - position: 0.0
+    time_from_start: {nsecs: 500000000, secs: 2}
+    velocity: 0.0
+name: left_close
+version: MV_RD_slopedown_fixed_leftclose_v6
