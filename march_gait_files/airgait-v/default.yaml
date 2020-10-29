@@ -55,11 +55,11 @@ gaits:
   stairs_up: {right_open: MV_stairsup_rightopen_v17a, left_swing: MV_stairsup_leftswing_v17,
               right_swing: MV_stairsup_rightswing_v17, left_close: MV_stairsup_leftclose_v17,
               right_close: MV_stairsup_rightclose_v17}
-  stairs_up_single_step: {right_open: MV_stairsup_single_rightopen_v7, left_close: MV_stairsup_single_leftclose_v7}
+  stairs_up_single_step: {right_open: MV_stairsup_single_rightopen_v7a, left_close: MV_stairsup_single_leftclose_v7}
   stairs_down_single_step: {right_open: MV_stairsdown_single_rightopen_v4,
                             left_close: MV_stairsdown_single_leftclose_v4}
-  stairs_down: {right_open: MV_stairsdown_rightopen_v9, left_swing: MV_stairsdown_leftswing_v9,
-                right_swing: MV_stairsdown_rightswing_v9, left_close: MV_stairsdown_leftclose_v9,
-                right_close: MV_stairsdown_rightclose_v9}
+  stairs_down: {right_open: MV_stairsdown_rightopen_v10, left_swing: MV_stairsdown_leftswing_v10,
+                right_swing: MV_stairsdown_rightswing_v10, left_close: MV_stairsdown_leftclose_v10,
+                right_close: MV_stairsdown_rightclose_v10}
   sofa_sit: {sit_down: MIV_final, sit_home: MIV_final}
   sofa_stand: {prepare_stand_up: MIV_final, stand_up: MIV_final}
